@@ -1,4 +1,8 @@
 html {
   background-color: #000;
   color: #fff;
+  padding: 10px;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
 }
